@@ -34,8 +34,8 @@ The pipeline
 
 Potential shortcomings with current pipeline
 ---
-One potential shortcoming would be in the challenge video when the car is moving through the curved area along the lanes determined.
-Though the path detection funcytion is happening many other lines on the barriers and sideways we are getting detected, so still the lane detection is improper.
+One potential shortcoming would be in the challenge video when the car is moving through the curved area along the lanes determined, though the path detection is working many other lines on the barriers and sideways we are alos getting detected.
+so still the lane detection function still needs improvements.
 
 Another shortcoming could be finding the vertices in the test image has been made manually instead of taking it automatically.
 
